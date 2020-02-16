@@ -10,7 +10,7 @@
 - Memahami Apa itu Developers Tools
 - Memahami Penggunaan Developer Tools
 - Memahami Tracking Element Dengan Developers Tools (Debugging Position Element of HTML)
-- Bisa Membuat Temporary CSS menggunakan Developer tools
+- Bisa Membuat CSS menggunakan Developer tools
 - MeRedesain Template yang sudah ada menjadi lebih fresh
 
 # Advance
